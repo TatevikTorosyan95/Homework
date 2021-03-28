@@ -16,13 +16,7 @@ public class Test {
         System.out.println(n6);
         char l1 = 'T';
         System.out.println(l1);
-        boolean b = false;
+        boolean b = true;
         System.out.println(b);
-
-        String s1 = "Hello World";
-        System.out.println(s1);
-        String name = "Tatevik";
-        String surname = "Torosyan";
-        System.out.println(name + ' ' + surname);
     }
 }
