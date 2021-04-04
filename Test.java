@@ -10,10 +10,13 @@ public class Test {
         System.out.println(n3);
         long n4 = 5858587455L;
         System.out.println(n4);
-        int a=1, b=2;
-        int c = a++ - --b;
-        System.out.println(--a + ++c);
-        System.out.println(b++ - c--);
-        System.out.println(a + ',' + b + ','+c);
+        float n5 = 10.99F;
+        System.out.println(n5);
+        double n6 = 456.789456;
+        System.out.println(n6);
+        char l1 = 'T';
+        System.out.println(l1);
+        boolean b = true;
+        System.out.println(b);
     }
 }
